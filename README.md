@@ -36,9 +36,7 @@ No nível Novato, você iniciará criando o sistema básico do jogo Super Trunfo
 *   **Não use** laços (`for`, `while`) ou condicionais (`if`, `else`).
 
 
-## 🛡️ Nível Aventureiro: Cálculo de Atributos
-
-No nível Aventureiro, você expandirá o sistema para incluir o cálculo de dois novos atributos: Densidade Populacional e PIB per Capita.
+## 🛡️ Nível Aventureiro: Cálculo de Atributos nível Aventureiro, você expandirá o sistema para incluir o cálculo de dois novos atributos: Densidade Populacional e PIB per Capita.
 
 🆕 **Diferença em relação ao Nível Novato:**
 
